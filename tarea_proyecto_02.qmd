@@ -16,11 +16,21 @@ format:
     linkcolor: blue
     citecolor: blue
     urlcolor: blue
+  pdf:
+    documentclass: article
+    papersize: letter
+    number-sections: true
+    colorlinks: true
 bibliography: Referencias.bib
 csl: apa-clacso.csl
 ---
 
-**Fecha límite de entrega: viernes, 20 de febrero de 2026, a las 23:59 vía GitHub Classroom.**
+**Fecha límite de entrega: viernes, 6 de marzo de 2026, a las 23:59.**
+
+**Entrega doble:**
+
+- **GitHub Classroom**: commit y push del repositorio (QMD + archivos fuente).
+- **Microsoft Teams**: subir el **PDF renderizado** a la asignación correspondiente en Teams.
 
 ---
 
@@ -41,7 +51,7 @@ csl: apa-clacso.csl
 
 4. Presten atención a la ortografía y sintaxis española (acentos, tildes, diéresis) o escriban en una de las tres modalidades de inglés discutidas: británico, Oxford o estadounidense. Cíñanse a una lengua a través de todo el documento.
 
-5. Renderizarán el documento en Quarto (Ctrl+Shift+K o botón Render) para generar el HTML o PDF, y harán commit y push al repositorio de GitHub Classroom.
+5. Renderizarán el documento en Quarto (Ctrl+Shift+K o botón Render) para generar el HTML y el PDF. Harán commit y push al repositorio de GitHub Classroom, y además subirán el **PDF** a la asignación en Microsoft Teams.
 
 **Nota sobre colaboración:** Si trabajan en grupo, pueden colaborar con estudiantes de cualquiera de las dos secciones del curso (sección 001 de la mañana o sección 002 de la tarde).
 
@@ -85,6 +95,12 @@ Una vez que haya delimitado su tema, elabore una pequeña bibliografía anotada 
 2. Un párrafo resumen (tres o cuatro oraciones) por fuente, explicando los puntos principales y cómo esta es útil para su investigación. No copie textos directamente de las fuentes. Las reglas de plagio aplican.
 
 ## Ejemplo de entrada en la bibliografía anotada
+
+::: {.callout-warning}
+## Borre este ejemplo antes de entregar
+
+La siguiente entrada es un **ejemplo ilustrativo**. Debe **eliminarla** de su documento y sustituirla por sus propias fuentes en la sección «Sus fuentes anotadas» más abajo.
+:::
 
 **1.** @hall2009institutional
 

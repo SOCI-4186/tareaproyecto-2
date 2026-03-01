@@ -131,7 +131,24 @@ if (is.null(lineas)) {
     msg("Campo 'author' fue modificado", "ok")
   }
 
-  # 3b. Section number advisory (00_ = placeholder not edited)
+  # 3b. Example citation left in document
+  if (any(grepl("@hall2009institutional", lineas, fixed = TRUE))) {
+    msg("El ejemplo de Hall & Thelen sigue en el documento", "warn")
+    msg("Borra la sección de ejemplo y sustituye con tus propias fuentes", "info")
+    avisos <- avisos + 1L
+  } else {
+    msg("Ejemplo ilustrativo eliminado correctamente", "ok")
+  }
+
+  # 3c. CSL reference in YAML
+  if (!any(grepl("apa-clacso.csl", lineas, fixed = TRUE))) {
+    msg("El YAML no referencia 'apa-clacso.csl' — no borres esa línea", "error")
+    errores <- errores + 1L
+  } else {
+    msg("Referencia a 'apa-clacso.csl' presente en el YAML", "ok")
+  }
+
+  # 3d. Section number advisory (00_ = placeholder not edited)
   if (any(grepl("SOCI 4186-00_", lineas, fixed = TRUE))) {
     msg("El número de sección no fue editado (sigue como '00_')", "warn")
     msg("Cambia '00_' en el título por tu número de sección (001 o 002)", "info")
@@ -255,6 +272,7 @@ if (errores == 0L && avisos == 0L) {
   cat("   - Esta verificación NO es una calificación\n")
   cat("   - El profesor evaluará el contenido académico\n")
   cat("   - Sube tu .qmd y .html a GitHub\n")
+  cat("   - Sube el PDF renderizado a Microsoft Teams\n")
   cat("\n")
 } else if (errores == 0L) {
   cat(sprintf("\u26A0\uFE0F  Tu tarea tiene %d aviso(s) pero puede entregarse.\n", avisos))
