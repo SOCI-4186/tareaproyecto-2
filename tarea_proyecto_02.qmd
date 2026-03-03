@@ -1,5 +1,5 @@
 ---
-title: "SOCI 4186-00_"
+title: "SOCI 4186"
 subtitle: "Tarea de Proyecto de Investigación — №2  \nReformulación de pregunta y Bibliografía anotada"
 author: "Pon tu nombre aquí  \nNúmero de estudiante"
 date: today
@@ -16,11 +16,6 @@ format:
     linkcolor: blue
     citecolor: blue
     urlcolor: blue
-  pdf:
-    documentclass: article
-    papersize: letter
-    number-sections: true
-    colorlinks: true
 bibliography: Referencias.bib
 csl: apa-clacso.csl
 ---
@@ -30,7 +25,7 @@ csl: apa-clacso.csl
 **Entrega doble:**
 
 - **GitHub Classroom**: commit y push del repositorio (QMD + archivos fuente).
-- **Microsoft Teams**: subir el **PDF renderizado** a la asignación correspondiente en Teams.
+- **Microsoft Teams**: subir el **HTML renderizado** a la asignación correspondiente en Teams. Si prefieren subir un PDF, pueden generar uno desde el navegador: abran el HTML, Ctrl+P (o Cmd+P en Mac) → «Guardar como PDF».
 
 ---
 
