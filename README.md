@@ -73,7 +73,7 @@ Su número de estudiante"
 2. **El número de sección**: Cambien `SOCI 4186-00_` por `SOCI 4186-001` o `SOCI 4186-002` según corresponda.
 
 3. **Completen las dos partes**:
-   - **Parte 1**: Reformulación de la pregunta de investigación (250-500 palabras)
+   - **Parte 1**: Pregunta de investigación refinada + respuesta a 4 componentes (250-500 palabras)
    - **Parte 2**: Bibliografía anotada (5-8 fuentes académicas con anotaciones)
 
 4. **Agreguen citas** en `Referencias.bib` y cítenlas en el texto con `@clave`

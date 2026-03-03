@@ -9,7 +9,7 @@
 | Criterio | Pts | Descripción |
 |:---------|----:|:------------|
 | **Entrega técnica** | 10 | Subió QMD al repo, cambió `author:` con nombre y número de estudiante. Renderiza correctamente. Binario: 10 o 0. |
-| **Reformulación de la pregunta** | 25 | Refina la pregunta inicial en 250–500 palabras. Responde a las 4 sub-preguntas: inductiva/deductiva, importancia, brecha en la literatura, implicaciones. 25 = las 4 respondidas con claridad; 20 = 3 de 4 respondidas; 15 = intento razonable pero incompleto; 10 = presente pero superficial. |
+| **Reformulación de la pregunta** | 25 | Presenta la pregunta refinada y responde en 250–500 palabras a los 4 componentes: inductiva/deductiva, importancia, brecha en la literatura, implicaciones. 25 = los 4 respondidos con claridad; 20 = 3 de 4 respondidos; 15 = intento razonable pero incompleto; 10 = presente pero superficial. |
 | **Bibliografía anotada** | 30 | Incluye 5–8 fuentes con anotaciones de 3–4 oraciones cada una. 30 = 5+ fuentes con anotaciones sustantivas; 25 = 5+ fuentes con anotaciones breves; 20 = 3–4 fuentes anotadas; 15 = menos de 3 fuentes o anotaciones muy breves; 10 = intento mínimo. |
 | **Calidad de fuentes** | 15 | Fuentes académicas: artículos en revistas peer-reviewed y/o libros de editoriales universitarias. 15 = todas académicas; 10 = mayoría académicas con alguna no académica; 5 = mayoría no académicas (think tanks, periódicos, blogs). |
 | **Formato de citas** | 10 | Uso correcto de `@clave` y archivo `.bib`. 10 = citas integradas correctamente con BibTeX; 7 = intento parcial (algunas en .bib, otras como texto plano); 3 = todas como texto plano. |

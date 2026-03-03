@@ -63,10 +63,10 @@ El documento debe incluir:
 
 # Parte 1: Reformulación de la pregunta de investigación
 
-Refine su pregunta inicial de investigación en una versión de 250-500 palabras, asegurándose de responder en ese espacio a las siguientes preguntas:
+Presente su pregunta de investigación refinada y, en 250–500 palabras, responda a las siguientes preguntas sobre ella:
 
 - ¿Es la pregunta principalmente de tipo inductiva o deductiva?
-- ¿Por qué es interesante e importante? (Revise la diapositiva 10 de la presentación [Repaso de investigación en ciencias sociales](https://github.com/RashidCJ/SOCI-4186/blob/main/Presentaciones/Repaso%20de%20investigación%20en%20Ciencias%20Sociales.pdf) para recordar cómo argumentar la relevancia o importancia).
+- ¿Por qué es interesante e importante? (Revise la presentación *Repaso diseño en Ciencias Sociales*, disponible en Teams, para recordar cómo argumentar la relevancia).
 - ¿Cómo aborda su pregunta una brecha en la literatura relevante?
 - ¿Cuáles son las implicaciones de responderla? (¿Qué aprenderemos de su investigación?).
 
