@@ -1,6 +1,6 @@
 ---
 title: "SOCI 4186"
-subtitle: "Tarea de Proyecto de Investigación — №2  \nReformulación de pregunta y Bibliografía anotada"
+subtitle: "Tarea de Proyecto de Investigación — №2  \nReformulación de pregunta y Bibliografía anotada  \nIndividual / Nombre del grupo"
 author: "Pon tu nombre aquí  \nNúmero de estudiante"
 date: today
 date-format: long
@@ -46,7 +46,7 @@ csl: apa-clacso.csl
 
 4. Presten atención a la ortografía y sintaxis española (acentos, tildes, diéresis) o escriban en una de las tres modalidades de inglés discutidas: británico, Oxford o estadounidense. Cíñanse a una lengua a través de todo el documento.
 
-5. Renderizarán el documento en Quarto (Ctrl+Shift+K o botón Render) para generar el HTML y el PDF. Harán commit y push al repositorio de GitHub Classroom, y además subirán el **PDF** a la asignación en Microsoft Teams.
+5. Renderizarán el documento en Quarto (Ctrl+Shift+K o botón Render) para generar el HTML. Harán commit y push al repositorio de GitHub Classroom, y además subirán el **HTML renderizado** a la asignación en Microsoft Teams. Si prefieren entregar un PDF, pueden generarlo desde el navegador: abran el HTML, Ctrl+P (o Cmd+P en Mac) → «Guardar como PDF».
 
 **Nota sobre colaboración:** Si trabajan en grupo, pueden colaborar con estudiantes de cualquiera de las dos secciones del curso (sección 001 de la mañana o sección 002 de la tarde).
 

@@ -272,7 +272,7 @@ if (errores == 0L && avisos == 0L) {
   cat("   - Esta verificación NO es una calificación\n")
   cat("   - El profesor evaluará el contenido académico\n")
   cat("   - Sube tu .qmd y .html a GitHub\n")
-  cat("   - Sube el PDF renderizado a Microsoft Teams\n")
+  cat("   - Sube el HTML renderizado a Microsoft Teams\n")
   cat("\n")
 } else if (errores == 0L) {
   cat(sprintf("\u26A0\uFE0F  Tu tarea tiene %d aviso(s) pero puede entregarse.\n", avisos))

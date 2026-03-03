@@ -17,6 +17,7 @@
 .quarto/
 
 # Archivos de LaTeX auxiliares
+*.tex
 *.aux
 *.log
 *.out

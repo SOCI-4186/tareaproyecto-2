@@ -13,6 +13,8 @@
 | `apa-clacso.csl` | Estilo de citas APA-CLACSO | No |
 | `uprrp-theme.css` | Tema visual del documento | No |
 | `verificar_tarea.R` | Script de verificación técnica (no califica) | No |
+| `RUBRICA_TP2.md` | Rúbrica de evaluación (criterios y puntuación) | No |
+| `GUIA_CONFIGURACION.md` | Guía de instalación de Git y RStudio | No |
 | `.gitignore` | Configuración de Git | No |
 
 ---
@@ -70,13 +72,11 @@ Su número de estudiante"
    ```
    Si trabajan en grupo, usen el formato de lista YAML indicado en las instrucciones del QMD.
 
-2. **El número de sección**: Cambien `SOCI 4186-00_` por `SOCI 4186-001` o `SOCI 4186-002` según corresponda.
-
-3. **Completen las dos partes**:
+2. **Completen las dos partes**:
    - **Parte 1**: Pregunta de investigación refinada + respuesta a 4 componentes (250-500 palabras)
    - **Parte 2**: Bibliografía anotada (5-8 fuentes académicas con anotaciones)
 
-4. **Agreguen citas** en `Referencias.bib` y cítenlas en el texto con `@clave`
+3. **Agreguen citas** en `Referencias.bib` y cítenlas en el texto con `@clave`
 
 ### Paso 5: Verificar (opcional pero recomendado)
 
