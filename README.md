@@ -1,6 +1,6 @@
 # Tarea de Proyecto № 2: Reformulación de pregunta y Bibliografía anotada
 
-## Fecha límite: viernes, 20 de febrero de 2026 a las 23:59
+## Fecha límite: domingo, 8 de marzo de 2026 a las 23:59
 
 ---
 
@@ -26,9 +26,13 @@ Si están comenzando con GitHub, sigan estos pasos usando **solo el navegador we
 1. El profesor les dará un **enlace de GitHub Classroom** (algo como `classroom.github.com/a/xxxxx`)
 2. Hagan clic en el enlace
 3. Si es la primera vez, GitHub les pedirá autorizar GitHub Classroom — acepten
-4. Hagan clic en **"Accept this assignment"**
-5. Esperen unos segundos mientras se crea su repositorio personal
-6. Verán un mensaje de confirmación con un enlace a su repositorio
+4. **Seleccionen su equipo:**
+   - Si ya existe su equipo en la lista, hagan clic en él para unirse
+   - Si son el primer miembro de su equipo, escriban el **nombre exacto** que el profesor les indicó y créenlo
+   - Si trabajan de forma individual, creen un equipo con su nombre de usuario de GitHub
+5. Hagan clic en **"Accept this assignment"**
+6. Esperen unos segundos mientras se crea el repositorio del equipo
+7. Verán un mensaje de confirmación con un enlace al repositorio compartido
 
 ### Paso 2: Descargar los archivos
 
