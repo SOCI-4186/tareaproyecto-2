@@ -1,11 +1,7 @@
 ---
 title: "SOCI 4186"
-subtitle: "Tarea de Proyecto de Investigación — №2  \nReformulación de pregunta y Bibliografía anotada  \nIndividual / Antro Girlies"
-author:
-  - name: "Sofía Burgos Colón"
-    affiliations: "801225590"
-  - name: "Génesis Roldán Hernández"
-    affiliations: "801198390"
+subtitle: "Tarea de Proyecto de Investigación — №2 \nReformulación de pregunta y Bibliografía anotada \nIndividual"
+author: "Edanice Rios Hermina \n801-23-1365"
 date: today
 date-format: long
 lang: es
@@ -21,132 +17,79 @@ format:
     citecolor: blue
     urlcolor: blue
 bibliography: Referencias.bib
-csl: apa-clacso.csl
+
 ---
-
-**Fecha límite de entrega: domingo, 8 de marzo de 2026, a las 23:59.**
-
-**Entrega doble:**
-
--   **GitHub Classroom**: commit y push del repositorio (QMD + archivos fuente).
--   **Microsoft Teams**: subir el **HTML renderizado** a la asignación correspondiente en Teams. Si prefieren subir un PDF, pueden generar uno desde el navegador: abran el HTML, Ctrl+P (o Cmd+P en Mac) → «Guardar como PDF».
-
-------------------------------------------------------------------------
-
-## Instrucciones generales
-
-1.  Aceptarán la asignación en GitHub Classroom y clonarán el repositorio correspondiente. Trabajarán el documento en **Quarto** desde RStudio.
-
-2.  Si el trabajo fuere individual, dejen sólo "Individual" en el subtítulo; si fuere grupal, cambien el texto de plantilla por el nombre del grupo.
-
-3.  Cambien el campo `author:` en el encabezado YAML. Si es individual: su nombre completo y número de estudiante. Si es en grupo, usen el formato:
-
-    ``` yaml
-    author:
-      - name: "Estudiante 1"
-        affiliations: "№ de Estudiante 1"
-      - name: "Estudiante 2"
-        affiliations: "№ de Estudiante 2"
-    ```
-
-4.  Presten atención a la ortografía y sintaxis española (acentos, tildes, diéresis) o escriban en una de las tres modalidades de inglés discutidas: británico, Oxford o estadounidense. Cíñanse a una lengua a través de todo el documento.
-
-5.  Renderizarán el documento en Quarto (Ctrl+Shift+K o botón Render) para generar el HTML. Harán commit y push al repositorio de GitHub Classroom, y además subirán el **HTML renderizado** a la asignación en Microsoft Teams. Si prefieren entregar un PDF, pueden generarlo desde el navegador: abran el HTML, Ctrl+P (o Cmd+P en Mac) → «Guardar como PDF».
-
-**Nota sobre colaboración:** Si trabajan en grupo, pueden colaborar con estudiantes de cualquiera de las dos secciones del curso (sección 001 de la mañana o sección 002 de la tarde).
-
-------------------------------------------------------------------------
-
-# Formato del documento
-
-El documento debe incluir:
-
--   Reformulación de la pregunta de investigación.
--   Citas y anotaciones de cada fuente. Las fuentes deben ser artículos académicos o libros publicados por editoriales universitarias. No incluya informes de *think tanks*.
-
-------------------------------------------------------------------------
+---
 
 # Parte 1: Reformulación de la pregunta de investigación
 
-Presente su pregunta de investigación refinada y, en 250–500 palabras, responda a las siguientes preguntas sobre ella:
+¿Cómo influyen las estructuras patriarcales en Puerto Rico en la construcción de la identidad femenina y en la persistencia de la violencia doméstica y el feminicidio?
 
--   ¿Es la pregunta principalmente de tipo inductiva o deductiva?
--   ¿Por qué es interesante e importante? (Revise la presentación *Repaso diseño en Ciencias Sociales*, disponible en Teams, para recordar cómo argumentar la relevancia).
--   ¿Cómo aborda su pregunta una brecha en la literatura relevante?
--   ¿Cuáles son las implicaciones de responderla? (¿Qué aprenderemos de su investigación?).
+Esta pregunta de investigación es principalmente de tipo deductiva, ya que parte de teorías existentes sobre el patriarcado, las estructuras de poder y la construcción social del género para analizar cómo estos conceptos se manifiestan en el contexto específico de Puerto Rico. Diversos enfoques dentro de la sociología y los estudios de género sostienen que el patriarcado funciona como una estructura social que organiza relaciones de poder entre hombres y mujeres, estableciendo normas culturales que influyen en la identidad, el comportamiento y las expectativas sociales. A partir de estos marcos teóricos, esta investigación busca examinar cómo dichas estructuras se reflejan en dinámicas sociales concretas dentro de la sociedad puertorriqueña.
 
-Con esta investigación pretendemos contestar la siguiente pregunta: ¿Qué factores han influido en la disminución de visitas al Cementerio de Villas Palmeras en las últimas décadas?. Esta pregunta surge de un pensamiento deductivo, dado a que parte de una generalización y se pone a prueba mediante la recopilación de datos y trabajo en campo.
+Esta pregunta resulta interesante e importante porque la violencia doméstica y el feminicidio representan problemáticas sociales significativas en Puerto Rico. Estos fenómenos no pueden entenderse únicamente como actos individuales o aislados, sino como parte de un contexto social más amplio en el que las normas culturales y las expectativas de género influyen en la forma en que se desarrollan las relaciones interpersonales. Analizar estas problemáticas desde una perspectiva estructural permite comprender cómo ciertas ideas tradicionales sobre el rol de la mujer —como la subordinación dentro de las relaciones de pareja o la responsabilidad principal en el ámbito doméstico— pueden contribuir a la normalización de dinámicas de control, posesividad y violencia.
 
-El cementerio de Cangrejos tiene una importancia cultural, debido a la larga historia de la población y las amplias aportaciones por los allí enterrados. Este legado está amenazado por la erosión de la memoria y la baja en visitas al cementerio. Es un ciclo retroalimentativo. Mientras menos visitantes, más probable es que se diluya la memoria de la importancia del lugar, menos incentivo hay a que las autoridades municipales correspondientes se ocupen por el mantenimiento, y más se deteriora la infraestructura. Entonces, un lugar menos llamativo en consecuencia de estos factores apeligra perpetuar y empeorar su menoscabo. Permitir que se aprecie menos apoya que el cementerio pierda su importancia para la comunidad.
+Asimismo, esta investigación aborda una brecha en la literatura existente al conectar tres dimensiones que con frecuencia se analizan por separado: el patriarcado como estructura social, la construcción de la identidad femenina y las manifestaciones de violencia de género. Aunque existen estudios sobre violencia doméstica en Puerto Rico y otros que analizan la historia del feminismo o las desigualdades de género en la isla, todavía es necesario explorar con mayor profundidad cómo estas estructuras culturales influyen simultáneamente en la formación de identidades y en patrones de violencia.
 
-Los cementerios son lugares sagrados los cuales sirven para darle una sepultura digna a nuestros seres queridos. Aún así la pérdida de interés del gobierno hacia los cementerios ha causado un deterioro estructural y estético, además del vandalismo y la delincuencia mezclada con el poco interés de las personas por las mismas circunstancias han causado un desligamiento entre los parientes y el difunto. Cada vez se observa menor sensibilidad ante temas de la muerte (Barrios, 2025). Por tal razón, el propósito es hacer un estudio que explore los factores que han influido en la disminución de las visitas a los cementerios y demostrar por qué hay personas que aún los continúan visitando. En el cementerio se encuentran exponentes de la bomba, de la salsa y la plena que en algún momento fueron prohibidas por las autoridades coloniales. Están las tumbas de figuras clave para la historia y la identidad afrodescendiente. Colectivamente, sus esfuerzos incluyen pero no se limitan a la enseñanza de la lectura y escritura, la actividad política por familias nacionalistas y la organización de obreros. Incluso, en sus principios cuando se otorgó la libertad a los cimarrones llegados de Santa Cruz, participaron de la defensa militar durante múltiples invasiones. Entiéndase, es un cementerio de historia profunda con impactos a varios lugares de Puerto Rico. Es necesario mirar el pasado para actuar en el presente y mejorar el futuro.
+Responder esta pregunta permitirá comprender mejor cómo las normas culturales relacionadas con el género influyen en situaciones de vulnerabilidad y violencia. De esta manera, esta investigación puede contribuir al debate académico sobre las desigualdades de género en Puerto Rico y ofrecer herramientas conceptuales para reflexionar sobre posibles transformaciones sociales orientadas hacia una mayor igualdad
 
-Según las revisiones hechas por las investigadoras a la literatura, no está contabilizada la cantidad de visitantes. El patrón observado es que los visitantes son cada vez menos, excepto en temporadas alrededor de los días de Madres y Padres. Sin embargo, no se ha encontrado un conteo y un trabajo que mencione esto estadísticamente. Este trabajo propone estructurar datos cuantitativos para encontrar si hay base objetiva para la preocupación. Responsablemente, la premisa que se busca atender no acierta que es definitiva la baja en visitantes, sino que debe estudiarse lo encontrado al analizar la cantidad de visitantes por tiempo. Al obtener estos datos puede presentarse objetivamente que el abandono al cementerio muestra una tendencia real y no basada en su posición, junto a esfuerzos por continuar el rol educativo que tiene el cementerio en su comunidad. Con esta investigación, se espera nutrir el conocimiento del lector en relación al movimiento del Cementerio de Villa Palmeras, así como conscientizar sobre el estado de los cementerios en Puerto Rico.
 
-------------------------------------------------------------------------
+# Parte 2: Bibliografía anotada 
 
-# Parte 2: Bibliografía anotada
 
-Una vez que haya delimitado su tema, elabore una pequeña bibliografía anotada que incluya entre cinco y ocho fuentes académicas relacionadas con su tema.
+## Mis fuentes anotadas
+**1.** @platt2015
 
-**Requisitos:**
+**Anotación:**  
+Este artículo presenta un recorrido histórico del papel de las mujeres en Puerto Rico desde la sociedad taína hasta la actualidad. La autora analiza cómo los procesos coloniales y sociales influyeron en la posición de las mujeres dentro de la sociedad puertorriqueña. El texto demuestra que muchas desigualdades de género tienen raíces históricas vinculadas a estructuras patriarcales. Esta fuente es útil para comprender el contexto histórico de las normas de género en Puerto Rico.
 
--   Las fuentes académicas incluyen artículos en revistas académicas y/o libros publicados por editoriales académicas (normalmente, estos tienen la palabra «Universidad» en su nombre).
--   Las fuentes académicas **NO** incluyen informes de *think tanks*, ya que dichos informes no son revisados por pares; tampoco incluyen artículos de periódicos o revistas no académicas.
--   Sus fuentes para la bibliografía anotada deben ayudarle a desarrollar sus conceptos, medidas y marco teórico/analítico. Estas fuentes **NO** deben ser fuentes de datos.
+---
 
-**Para cada fuente incluya:**
+**2.** @roman1991
 
-1.  Una cita en formato APA (use la sintaxis `@clave` de Quarto para citar automáticamente desde su archivo `.bib`).
-2.  Un párrafo resumen (tres o cuatro oraciones) por fuente, explicando los puntos principales y cómo esta es útil para su investigación. No copie textos directamente de las fuentes. Las reglas de plagio aplican.
+**Anotación:**  
+En este artículo, Román analiza el desarrollo del pensamiento feminista en Puerto Rico y las corrientes teóricas que han influido en el movimiento feminista local. Examina cómo el feminismo ha cuestionado estructuras sociales que reproducen desigualdades de género. Además, discute las relaciones entre identidad, cultura y poder. Esta obra ayuda a comprender cómo se construyen las relaciones de género en el contexto puertorriqueño.
 
-## Sus fuentes anotadas
+---
 
-\[Agregue aquí sus 5-8 fuentes con sus respectivas anotaciones...\]
+**3.** @colonwarren2018
 
-1.  @unknown-author-2025
+**Anotación:**  
+Este trabajo examina la relación entre investigación académica y activismo feminista en el Puerto Rico contemporáneo. La autora analiza cómo los movimientos feministas han abordado problemáticas como la violencia de género y la desigualdad estructural. El texto destaca la importancia de la investigación para visibilizar estas problemáticas. Esta fuente permite comprender el feminismo contemporáneo en Puerto Rico.
 
-**Anotación:** En este libro escrito por y para la comunidad de San Mateo de Cangrejos, Jaime Moisés Pérez analiza en uno de los capítulos la importancia histórica, y más que todo cultural, del cementerio de Villa Palmeras. El Dr. Pérez explica que el cementerio no solamente ha funcionado como un espacio de enterramiento, sino como un lugar donde se ha preservado la memoria colectiva y donde ha perdurado nuestra historia afrodescendiente. Jaime Pérez, mediante la identificación de las tumbas y de los relatos de la comunidad, ha sabido mantener de manera viva la memoria colectiva y destaca que hay que mirar al pasado compartido por la comunidad para así actuar en el presente y mejorar el futuro. Mirar hacia la historia de Cangrejos permite fortalecer la identidad cultural y conocer el legado que con tanto esfuerzo ha pasado tras generaciones. El objetivo de este libro es promover que el cementerio se vuelve un espacio activo, un lugar simbólico de educación, que invite a nuevas generaciones a sentirse orgullosos de su herencia y de la historia de resistencia que caracteriza a la comunidad de San Mateo de Cangrejos.
+---
 
-2.  @ramirez-2016
+**4.** @silva2019
 
-**Anotación:** A lo largo de la historia las sociedades han ido construyendo distintas interpretaciones sobre la muerte, desde las Américas hasta Europa. Doris Lugo se dedidca en este capítulo a examinar cambios ideológicos, religiosos y culturales que han influido significativamente en las prácticas mortuorias, las formas de desaprender lo físico de ser y el significado de los cementerios dentro de la sociedad. Esta autora nos explica que entre tanta diversidad de símbolos y prácticas a través de los distintos periodos es una muestra de la interminable curiosidad de entender un hecho que es incomprensible e inevitable. Esta interminable búsqueda ha impulsado al ser humano a emprender una búsqueda de entneder y comprender los cambios biológicos y la búsqueda del ser a través de los tiempos así que las tradiciones han estado en constante cambio y esto ella lo va explicando y enumerando. Ha ido desde que al muerte es un proceso de memoria colectiva y participación comunitaria, hasta comenzar a delegar estos procesos a la tecnología, instituciones médicas y profesionales en el área de la muerte.
+**Anotación:**  
+Este estudio analiza las experiencias de mujeres que han enfrentado violencia de género en Puerto Rico. A través de narrativas, las autoras exploran cómo las mujeres interpretan estas experiencias y desarrollan estrategias de resistencia. El trabajo demuestra que la violencia está conectada con estructuras sociales y culturales. Esta fuente aporta evidencia empírica sobre la violencia de género.
 
-Uno de los puntos más importantes que toca Lugo es la transformación de la relación entre los vivos y los muertos. Esto se debe a que la sociedad contemporánea ha medicalizado la muerte, explicando sus causas con avances modernos para desmitificar, pero aún manteniendo el tabú, lo que ha causado que haya un distanciamiento emocional y hasta cultural. Por otro lado, los rituales antes tuvieron su papel fundamental dentro de las sociedad que estaban dispuestas a confrontar de cerca las intrigas que traen comprender la muerte, reforzar los lazos familiares y mantener viva la memoria de sus muertos. La discusión sobre las sociedades modernas nos habla sobre cómo las prácticas relacionadas a la muerte han decido abandonar o transformadas. Algunos cambios significativos señalados como la cremación, los procesos de muerte en hospitales que provoca que las familias tengan menos contacto con la persona fallecida y más que nada la disminución de los rituales en la comunidades reflejando que se han creado nuevas formas de relacionarse con la muerte, donde se ha vuelto un proceso más tabú o privado y se ha vuelto menos visible dentro de la sociedad. Este libro es un libro que proporciona no solo los cambios históricos según los muestra la iconografía sino nos brinda un marco teórico útil que analiza los fenómenos contemporáneos como la disminución de visitas, las transformación de rituales y la manera en la que la sociedad ha transformado la manera la en la que decide enfrentar a la muerte. 
+---
 
-3.  @barrios-vilches-2025
+**5.** @bourdieu2001
 
-**Anotación:** Isadora Barrios Vilches estudia las condiciones históricas y actuales de tres cementerios de Puerto Rico: Villa Palmeras, el cementerio de Lares y el cementerio del Viejo San Juan Santa Maria Magdalena de Pazzis. Se dedica a analizar los espacios fundamentales de la memoria colectiva. Además, su trabajo explora desde cuando surgieron los cementerios durante el periodo colonial hasta el comienzo del traslado de los cementerios a lugares más lejanos de las iglesias, donde tradicionalmente eran creados. Habla también sobre la iconografía de estos cementerios desde sus comienzos. Barrios Vilches argumenta sobre los procesos durante el siglo XIX y XX que influyeron grandemente en los cambios de administración y organización de los cementerios, modificando prácticas tradicionales. Este trabajo es relevante a la investigación dado a que la autora señala que los procesos que han influido en la deterioración de los cementerios en la isla han sido la expansión urbana, la sobrepoblación de terrenos funerarios y la migración de las comunidades. Adicionalmente, influye estudios comparativos que llevó a cabo con entrevistas, visitas a los cementerios y observación directa. Finalmente, también reflexiona sobre los modelos ecológicos y nuevas planificaciones que ayudarían a los cementerios con la saturación de los terrenos.
+**Anotación:**  
+En este libro, Bourdieu analiza cómo la dominación masculina se reproduce a través de estructuras sociales y simbólicas. Introduce el concepto de violencia simbólica para explicar la normalización de la desigualdad. Este marco teórico permite entender el patriarcado como sistema estructural. Es clave para analizar relaciones de poder y género.
 
-4.  @sanchez1996vivienda
+---
 
-**Anotación:** Luis Martínez Fernández analiza las dificultades que los protestantes sufrieron en el Caribe hispánico durante el siglo XX, específicamente en Cuba y Puerto Rico, cuando estos morían en territorio que era dominio español y de la iglesia católica. Las leyes coloniales y la iglesia católica eran las que controlaban el aspecto fúnebre en su totalidad desde quién era enterrado hasta dónde podían ser ubicados. Esto comenzó a traer conflictos entre los extranjeros y las comunidades protestantes dado a que no recibían un entierro adecuado según su fe. La esfera de influencia de los Estados Unidos, protestante en su gran mayoría, se extendía cada vez más hasta alcanzar a Cuba y Puerto Rico. Esas poblaciones mayormente católicas recibían visitantes y veían el asentamiento creciente de residentes protestantes, lo que generó más tensión. Este artículo también argumenta sobre las enfermedades prevalentes en ese tiempo y cómo la fiebre amarilla afectaba principalmente a los inmigrantes. También muestra cómo el aspecto político cambia poco a poco el modus operandi de la iglesia aumentando la tolerancia religiosa en la década del 1860, y comenzando a modificar estas prácticas. La fuente fue escogida dado a que muestra cómo la religión, la política y las normas sociales han influido grandemente en las prácticas fúnebres y en el tratamiento de los muertos desde una etapa más temprana.
+---
 
-5.  @ramirez-2017
+**6.** @bonilla2019
 
-**Anotación:** En la sección de antropología dentro del texto *Ante el Espejo de la Muerte: 1er Coloquio Sobre la Muerte, el Morir y los Muertos en Puerto Rico*, el Dr. Jaime Pérez Rivera hace un llamado a la interdisciplinaridad dentro del campo de estudio de la muerte. Pérez establece que la muerte, y los temas que la rodean, deben ser estudiados desde una perspectiva holística, siempre teniendo de norte la humanidad de los difuntos estudiados. Para estudiar la muerte, el investigador debe apoyarse en la perspectiva antropológica para librarse de cualquier prejuicio y dejarse respaldar por la historia, la cual provee las distintas formas disponibles para acercarnos al tema. Argumenta que la historia trasciende los documentos escritos, y nos indica en dónde debemos buscar la información, y cómo debemos interpretarla. En fin, Pérez establece que para construir una metodología en cuanto al estudio de la muerte el investigador debe utilizar estrategias tanto antropológicas como históricas.
+**Anotación:**  
+Este artículo revisa investigaciones sobre violencia de género en universidades y estrategias comunicativas para visibilizarla. Señala que esta violencia es una problemática estructural y muchas veces invisibilizada. También destaca la falta de compromiso institucional frente a este problema. Esta fuente permite entender cómo la violencia se normaliza en espacios educativos.
 
-6.  @bodin-no-date
+---
 
-**Anotación:** En este artículo de investigación la autora, Nichole Bodin, expone sus hallazgos en cuanto a la relación del arte, la arqueología y la sociedad. Utiliza como base 5 estructuras góticas localizadas en el Cementerio de San Vicente de Paul en Ponce, PR. La investigadora expone que la construcción de un cementerio es un evento afectado por la sociedad, por lo cual tanto su arte como su geografía son particulares de cada cementerio. Enfatiza la importancia de un enfoque interdisciplinario, argumentando que, debido a que cada cementerio es único, deben ser estudiados como unidades, no como conjuntos, mediante estrategias provenientes de la historia, arqueología y el arte.
+**7.** @bello2025
 
-7.  @cantos-2000
+**Anotación:**  
+Bello-Urrego analiza el feminicidio desde una perspectiva feminista y decolonial. Argumenta que la violencia contra las mujeres está ligada a estructuras coloniales que determinan qué vidas son valoradas. El texto muestra cómo el feminicidio es invisibilizado institucionalmente. Esta obra permite analizar la violencia como un fenómeno estructural y político.
 
-**Anotación:** En el tercer capítulo del texto *Los puertorriqueños: mentalidad y actitudes (Siglo XVIII)*, el Dr. Ángel López Cantos detalla el contexto religioso de la sociedad puertorriqueña durante el siglo 18. López establece que, aunque a nivel formal el catolicismo era la única religión de la isla, existen récords que comprueban la presencia de prácticas paganas, como la brujería. Sin embargo, según se menciona en el último capítulo del texto, los puertorriqueños estaban comprometidos con los ideales católicos en lo referente a la muerte, incluso solicitando consolidaciones entre pueblos con el fin de residir cerca de una iglesia principal, influenciados por el miedo a fallecer en pecado mortal, lo cual les aseguraría condenación eterna. Este libro data los primeros ritos de entierros católicos en la isla, en los cuales, ante la ausencia de cementerios, los fallecidos, en especial quienes en vida habían tenido gran adquisición económica, eran enterrados en los predios de las iglesias.
 
-8.  @rocke2002death
 
-**Anotación:** Este artículo explora los cambios de mentalidad en relación a la muerte que ocurrieron durante el traspaso del siglo XX al siglo XXI. Expone cómo la alta expectativa de vida, al igual que la certeza de que morirás a tarde edad, han vuelto de la muerte un negocio de profesionalización. Contrasta la tendencia a muertes rápidas de los últimos siglos con el aumento de muertes a largo plazo en el presente siglo, argumentado que esto ha contruibido al cambio de la mentalidad de la mayoría de los habitantes del Mundo Occidental. La segunda sección del artículo aborda cómo estos cambios han afectado las relaciones de las personas en cuanto a la aceptación de su propia muerte, y la muerte de un ser querido. Aunque los estudios tienden a tener resultados variados, es un consenso de que muchos sufren de miedo a la muerte por un deseo de sobrevivencia, mientras que otros temen que la muerte se los lleve de manera solitaria.
-
-------------------------------------------------------------------------
-
-# Declaración de uso de MEL {.unnumbered}
-
-\[Si utilizó herramientas de Modelos Extensos de Lenguaje (MEL/LLM), complete esta sección según las instrucciones del sílabo. De lo contrario, indique "No se utilizaron herramientas de MEL en esta tarea."\]
-
-No se utilizaron MEL en esta tarea
-
-------------------------------------------------------------------------
+---
 
 # Referencias {.unnumbered}
 

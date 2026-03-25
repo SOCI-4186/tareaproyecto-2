@@ -1,0 +1,49 @@
+@article{platt2015,
+  author = {Platt, S. V.},
+  title = {Una breve historia de Puerto Rico desde una mirada feminista},
+  year = {2015}
+}
+
+@article{roman1991,
+  author = {Román, M.},
+  title = {Feminismo y postmodernidad en Puerto Rico},
+  year = {1991}
+}
+
+@article{colonwarren2018,
+  author = {Colón-Warren, Alice},
+  title = {Investigación y acción feminista en el Puerto Rico contemporáneo},
+  year = {2018}
+}
+
+@article{silva2019,
+  author = {Silva Martínez, Elithet and Valle-Ferrer, Diana and Álvarez Soto, Suzette},
+  title = {Narrativas de resistencia ante la violencia de género en Puerto Rico},
+  year = {2019}
+}
+
+@book{bourdieu2001,
+  author = {Bourdieu, Pierre},
+  title = {Masculine Domination},
+  publisher = {Stanford University Press},
+  year = {2001}
+}
+
+@book{federici2004,
+  author = {Federici, Silvia},
+  title = {Caliban and the Witch: Women, the Body and Primitive Accumulation},
+  publisher = {Autonomedia},
+  year = {2004}
+}
+
+@article{bonilla2019,
+  author = {Bonilla-Neira, Laura and Gómez-Meneses, Diana and Godoy-Pinilla, Juan},
+  title = {Investigaciones y estrategias comunicativas frente a la violencia contra las mujeres en ámbitos universitarios},
+  year = {2019}
+}
+
+@article{bello2025,
+  author = {Bello-Urrego, Alejandra},
+  title = {Colonialidad invisible y políticas del sufrimiento},
+  year = {2025}
+}
